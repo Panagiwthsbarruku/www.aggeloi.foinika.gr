@@ -1,0 +1,90 @@
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css");
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+section {
+  padding: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+header h1 img {
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.facebook-button {
+  display: inline-block;
+  background-color: #3b5998; /* χρώμα του Facebook */
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.facebook-button:hover {
+  background-color: #2d4373; /* χρώμα του Facebook με hover */
+}
+#schedule {
+  padding: 20px;
+}
+
+.game {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.game h3 {
+  margin-top: 0;
+}
+
+.game p {
+  margin: 5px 0;
+}
+/* styles.css */
+#fileInput {
+  display: block;
+  margin: 20px auto;
+}
+
+#imagePreview {
+  max-width: 100%;
+  height: auto;
+  display: none;
+}
+ .submit:hover{
+   background-color: #333;
+}
+  
+    
